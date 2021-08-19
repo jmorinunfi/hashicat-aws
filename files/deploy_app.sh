@@ -11,7 +11,9 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to Your Mind, tis' a strange place indeed!
+
+  Welcome to hell, where there are only pictures of cats.
+>>>>>>> 838b11d59f0b6cd1f4d76fdfb69dd70281da1447
   <!-- END -->
 
   </div>
